@@ -25,8 +25,11 @@ This project evaluates procurement operations for a global enterprise by analyzi
 ## 📂 Project Structure  
 ```
 procurement-kpi-dashboard/
+
 │── data/                # Dataset (cleaned sample or source link)
+
 │── notebooks/           # Python Jupyter notebooks
+
 │── README.md            # Project documentation
 ```
 
